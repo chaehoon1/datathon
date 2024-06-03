@@ -5,9 +5,6 @@ hai x ybigta datathon에서 작성한 코드 백업
 본 대회의 Task는 다음과 같습니다.
 “Instance segmentation for underwater imagery”
 ![image](https://github.com/chaehoon1/datathon/assets/168724562/a2be8e5a-44b8-492e-bdfc-f7094d0cbf30)
-![image](https://github.com/chaehoon1/datathon/assets/168724562/f4adf5c5-5fea-47a0-bc19-cdbe494d1df2)
-![image](https://github.com/chaehoon1/datathon/assets/168724562/7b6cafbc-030d-4829-b639-5c549de8d22f)
-![image](https://github.com/chaehoon1/datathon/assets/168724562/f20319e7-16e3-43fa-bb28-3ebb0af2a98c)
 
 데이터셋은 총 7개의 카테고리의 4628장의 이미지로 구성되어 있습니다.
 
